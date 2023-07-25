@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Anderson Azevedo !
+I'm a developer with a focus on continuous learning. I currently work with backend technologies such as Python with Django and Java with Spring Framework.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbreno&count_private=true&show_icons=true&theme=onedark)
 
